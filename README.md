@@ -24,8 +24,6 @@ I contribute to different types of projects — from fixing bugs and enhancing f
 - Contribute to projects in various fields and tech stacks.
 - Value collaboration, clean code, and problem-solving.
 
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/ali90h/starship)
-
 
 ## 📫 Connect
 - GitHub: [ali90h](https://github.com/ali90h)
