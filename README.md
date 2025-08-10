@@ -10,7 +10,7 @@ I contribute to different types of projects — from fixing bugs and enhancing f
     Fixed multiple broken image links in documentation notebooks to improve clarity and accessibility.
 
 - **[Starship](https://github.com/starship/starship)**
-  - [#6892 – Count job groups instead of processes in jobs module](https://github.com/starship/starship/pull/6892)  
+  - [#6899 – fix(fish): Count job groups instead of processes in jobs module fix(fish): Count job groups instead of processes in jobs module ](https://github.com/starship/starship/pull/6899)  
     Implemented more accurate job counting in Fish shell module.  
     Related issue: [#6868](https://github.com/starship/starship/issues/6868)
 
