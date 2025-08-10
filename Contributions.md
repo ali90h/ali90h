@@ -11,7 +11,7 @@
 
 ### Starship
 - **Issue:** [#6868 – Incorrect job count in Fish shell](https://github.com/starship/starship/issues/6868)
-- **Pull Request:** [#6892 – fix(fish): Count job groups instead of processes in jobs module](https://github.com/starship/starship/pull/6892)
+- **Pull Request:** [#6899 – fix(fish): Count job groups instead of processes in jobs module](https://github.com/starship/starship/pull/6899)
 - **Description:** Updated the Fish shell module to count job groups instead of individual processes for more accurate status reporting.
 
 ---
