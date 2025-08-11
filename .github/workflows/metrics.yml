@@ -51,21 +51,26 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           
-          # إحصائيات الـ Issues والـ PRs
+          # إحصائيات الـ Issues والـ PRs (محسنة)
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
           
-          # خريطة النشاط ثلاثية الأبعاد (مثل Byron!)
+          # إضافة plugin للـ contributions الخارجية
+          plugin_contributions: yes
+          plugin_contributions_display: detailed
+          plugin_contributions_sections: contributions
+          
+          # خريطة النشاط ثلاثية الأبعاد (حجم صغير مثل Byron)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_compact: yes
           
-          # Achievements والجوائز
+          # Achievements والجوائز (بدون الأخطاء)
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 10
           
           # خطوط الكود المكتوبة
           plugin_lines: yes
@@ -81,16 +86,11 @@ jobs:
           # Traffic وإحصائيات الزوار
           plugin_traffic: yes
           
-          # معلومات إضافية مثيرة
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          
           # إعدادات المظهر النهائية
           config_display: large
           config_animations: yes
           
-  # وظيفة منفصلة للـ detailed metrics (مثل الصورة تماماً)
+  # وظيفة منفصلة للـ detailed metrics (بدون الأقسام غير المرغوبة)
   detailed-metrics:
     runs-on: ubuntu-latest
     permissions:
@@ -102,11 +102,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ali90h
           template: classic
-          base: ""
+          base: header, activity, repositories
           
           # كل التفاصيل المتقدمة
           config_timezone: Asia/Baghdad
-          config_order: languages, followup, people, stargazers, lines, traffic
+          config_order: languages, followup, people, lines, traffic
           config_display: large
           config_animations: yes
           
@@ -119,14 +119,57 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_languages_analysis_timeout: 15
           
-          # الخريطة ثلاثية الأبعاد
+          # الخريطة ثلاثية الأبعاد (حجم مضغوط مثل Byron)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_compact: yes
           
-          # كل الإحصائيات
+          # الإحصائيات بدون stargazers والأقسام غير المرغوبة
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
+          
+          # تعطيل stargazers و recent activity غير المرغوب فيها
+          plugin_stargazers: no
+          plugin_recent_activity: no
+          
+  # المساهمات الخارجية (محسنة ومركزة)
+  external-contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: external-contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ali90h
+          template: classic
+          base: ""
+          
+          # إعدادات للمساهمات الخارجية
+          config_timezone: Asia/Baghdad
+          config_display: large
+          
+          # plugin للـ Pull Requests المرسلة للمشاريع الأخرى
+          plugin_pullrequests: yes
+          plugin_pullrequests_sections: created, merged
+          plugin_pullrequests_limit: 15
+          plugin_pullrequests_draft: no
+          
+          # plugin للـ Issues المفتوحة في المشاريع الأخرى  
+          plugin_issues: yes
+          plugin_issues_limit: 15
+          
+          # Activity في المشاريع الأخرى (مركز ومفيد)
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_filter: issue, pr, release, review
+          plugin_activity_visibility: public
+          
+          # تعطيل achievements لتجنب الأخطاء
+          plugin_achievements: no
