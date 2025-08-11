@@ -58,17 +58,6 @@ For each case: short description, before/after, and code links—focused on impa
 
 Updates automatically via jamesgeorge007/github-activity-readme.
 
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali90h&theme=react" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali90h&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 🎯 Current Focus
 
 🔍 Exploring: Advanced Rust ecosystem & system programming
