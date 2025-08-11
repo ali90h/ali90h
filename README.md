@@ -8,8 +8,10 @@
 
 ## 🚀 About Me
 
-I'm an **open-source contributor** who enjoys solving problems, improving software, and collaborating with developers around the world. I specialize in **fixing what others can't** and **improving developer experiences** across the ecosystem.
+I'm an open-source contributor who enjoys solving tough problems, improving software, and collaborating with developers around the world. I focus on developer tooling, CLI UX, and high‑impact bug fixes across diverse stacks (not tied to a single language or framework).
 
+    def get_daily_routine(self):
+        return ["☕ Coffee", "💻 Code", "🐛 Debug", "📖 Learn", "🔄 Repeat"]
 ```python
 class Ali:
     def __init__(self):
@@ -17,7 +19,6 @@ class Ali:
         self.location = "Iraq"
         self.languages = ["Python", "Rust", "JavaScript", "Shell"]
         self.focus = ["CLI Tools", "Developer Experience", "Open Source"]
-        self.currently_learning = ["Advanced Rust", "System Programming"]
     
     def get_daily_routine(self):
         return [
@@ -42,57 +43,21 @@ class Ali:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali90h&theme=react&hide_border=false" />
 </div>
 
-## 🎯 Recent Contributions & Impact
+🎯 Recent Contributions & Impact
 
-### 🏆 Notable Pull Requests
-- **[OpenAI Cookbook #1977](https://github.com/openai/openai-cookbook/pull/1977)** - Fixed multiple broken image links in documentation notebooks
-- **[Starship #6899](https://github.com/starship/starship/pull/6899)** - Implemented accurate job counting in Fish shell module  
-- **[HTTPie #1653](https://github.com/httpie/cli/pull/1653)** - Corrected file download handling to prevent truncation
+🏆 Case Studies
 
-### 💼 Contribution Types
-```text
-🐛 Bug Fixes        ████████████████████ 60%
-📚 Documentation    ███████████████      45%
-✨ Features         ██████████           30%
-🔧 Improvements     ████████████         35%
-```
+OpenAI Cookbook – PR #1977: Fixed multiple broken image links in documentation notebooks → Improved access to educational content for thousands of users.
+Starship – PR #6899: Implemented accurate job counting in the Fish module → Higher accuracy for the terminal experience.
+HTTPie – PR #1653: Corrected download handling under Content-Encoding: gzip → Prevented file truncation for CLI users.
 
-## 📈 Contribution Activity
+For each case: short description, before/after, and code links—focused on impact.
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#6899](https://github.com/starship/starship/pull/6899#issuecomment-3172743542) in [starship/starship](https://github.com/starship/starship)
-2. 🗣 Commented on [#6899](https://github.com/starship/starship/pull/6899#issuecomment-3172635864) in [starship/starship](https://github.com/starship/starship)
-3. 🗣 Commented on [#6892](https://github.com/starship/starship/pull/6892#issuecomment-3172632616) in [starship/starship](https://github.com/starship/starship)
-4. 💪 Opened PR [#6899](https://github.com/starship/starship/pull/6899) in [starship/starship](https://github.com/starship/starship)
-5. ❌ Closed PR [#6892](https://github.com/starship/starship/pull/6892) in [starship/starship](https://github.com/starship/starship)
-6. 🗣 Commented on [#260848](https://github.com/microsoft/vscode/pull/260848#issuecomment-3172539334) in [microsoft/vscode](https://github.com/microsoft/vscode)
-7. 💪 Opened PR [#260848](https://github.com/microsoft/vscode/pull/260848) in [microsoft/vscode](https://github.com/microsoft/vscode)
-8. 🗣 Commented on [#252372](https://github.com/microsoft/vscode/issues/252372#issuecomment-3172478673) in [microsoft/vscode](https://github.com/microsoft/vscode)
-9. 🗣 Commented on [#6892](https://github.com/starship/starship/pull/6892#issuecomment-3167701707) in [starship/starship](https://github.com/starship/starship)
-10. 🗣 Commented on [#6868](https://github.com/starship/starship/issues/6868#issuecomment-3167700942) in [starship/starship](https://github.com/starship/starship)
-<!--END_SECTION:activity-->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali90h&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&hide_border=true" />
-</div>
+📈 Contribution Activity
 
-## 🛠️ Languages & Tools
+Updates automatically via jamesgeorge007/github-activity-readme.
 
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
 ## 🔥 Streak Stats
 <div align="center">
@@ -104,35 +69,16 @@ class Ali:
   <img src="https://github-profile-trophy.vercel.app/?username=ali90h&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-## 🎯 Current Focus
+🎯 Current Focus
 
-- 🔍 **Exploring**: Advanced Rust ecosystem and system programming
-- 🛠️ **Building**: Developer tools that enhance productivity  
-- 🤝 **Contributing**: To high-impact open source projects
-- 📚 **Learning**: Performance optimization and CLI design patterns
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali90h)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
+🔍 Exploring: Advanced Rust ecosystem & system programming
+🛠️ Building: Developer tools that enhance productivity
+🤝 Contributing: High‑impact open‑source projects
+📚 Learning: Performance optimization & CLI design patterns
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ali90h&color=brightgreen&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/ali90h?style=for-the-badge&color=blue&labelColor=black)](https://github.com/ali90h?tab=followers)
-
-### 🎵 Currently Playing
-[![Spotify](https://github-readme-stats.vercel.app/api/spotify-now-playing/ali90h)](https://open.spotify.com/user/ali90h)
-
 *"Code is poetry written for machines, but read by humans"* ✨
-
-</div>
 
 <!--
 **Fun fact**: This README updates automatically! 
