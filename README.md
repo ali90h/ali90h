@@ -27,15 +27,10 @@ class Ali:
 
 ## 📊 GitHub Metrics (primary)
 
-<details>
+<details open>
   <summary><b>GitHub Metrics</b></summary>
-
-  <!-- Generated daily via lowlighter/metrics -->
-
-  <img src="./metrics.svg" alt="GitHub Metrics" />
+  <img src="./metrics.svg?ts=1" alt="GitHub Metrics" />
 </details>
-
-> This section aggregates core stats (activity, languages, commit streaks, issue/PR status, and achievements) into a single image—to reduce duplication and speed up loading.
 
 ---
 
