@@ -1,29 +1,36 @@
-# Hi, I'm Ali 👋
+# Hi there! I'm Ali 👋
 
-I'm an open-source contributor who enjoys solving problems, improving software, and collaborating with developers around the world.  
-I contribute to different types of projects — from fixing bugs and enhancing features to improving documentation and performance.
+## 🔧 What I Do
+I focus on solving challenging problems and enhancing developer experiences across the open-source ecosystem, without being tied to a single programming language or technology. My approach is rooted in openness—expanding my skills across diverse languages, tools, and frameworks—and contributing to a wide variety of projects rather than limiting myself to a fixed set.
 
-## 🚀 Recent Open Source Contributions
+## 🎯 Recent Impact
+- **OpenAI Cookbook**: Fixed broken documentation links affecting thousands of AI researchers
+- **Starship**: Improved Fish shell job counting accuracy for better terminal UX  
+- **HTTPie**: Resolved file download truncation issues for CLI users worldwide
 
-- **[OpenAI Cookbook](https://github.com/openai/openai-cookbook)**
-  - [#1977 – Fix: broken image links in deep research notebooks](https://github.com/openai/openai-cookbook/pull/1977)  
-    Fixed multiple broken image links in documentation notebooks to improve clarity and accessibility.
+## 💻 Tech Focus
+```text
+Languages: Python, Rust, Shell Scripting, and beyond
+Tools: Git, CLI Development, Documentation, Networking
+Mindset: Adaptable, Open to New Technologies, Broad Contributor
+Passion: Developer Tools, Open Source, and Continuous Learning
+```
 
-- **[Starship](https://github.com/starship/starship)**
-  - [#6899 – fix(fish): Count job groups instead of processes in jobs module fix(fish): Count job groups instead of processes in jobs module ](https://github.com/starship/starship/pull/6899)  
-    Implemented more accurate job counting in Fish shell module.  
-    Related issue: [#6868](https://github.com/starship/starship/issues/6868)
+## 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali90h&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali90h&layout=compact&theme=dark)
 
-- **[HTTPie CLI](https://github.com/httpie/cli)**
-  - [#1653 – Respect Content-Length when Content-Encoding is present](https://github.com/httpie/cli/pull/1653)  
-    Corrected file download handling to prevent premature truncation when gzip encoding is used.  
-    Related issue: [#1642](https://github.com/httpie/cli/issues/1642)
+## 🌟 Notable Contributions
+- [OpenAI Cookbook #1977](https://github.com/openai/openai-cookbook/pull/1977) - Fixed critical documentation links
+- [Starship #6899](https://github.com/starship/starship/pull/6899) - Enhanced Fish shell module accuracy
+- [HTTPie #1653](https://github.com/httpie/cli/pull/1653) - Resolved gzip encoding issues
 
-## 🌟 About Me
-- Passionate about continuous learning and exploring new technologies.
-- Contribute to projects in various fields and tech stacks.
-- Value collaboration, clean code, and problem-solving.
+## 🚀 What's Next?
+Currently exploring Rust ecosystem tools, AI-powered developer utilities, and other emerging technologies. Always ready to collaborate on projects that make developers’ lives easier—no matter the stack or scope.
 
+## 📫 Let's Connect
+- GitHub: You're already here! 😄
+- Looking for collaboration on developer tools and open-source projects
 
-## 📫 Connect
-- GitHub: [ali90h](https://github.com/ali90h)
+---
+*"Code is poetry written for machines, but read by humans"*
