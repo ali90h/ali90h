@@ -21,7 +21,7 @@ jobs:
 
       # نشاط GitHub (يفترض وجود START/END_SECTION داخل README)
       - name: Update recent activity
-        uses: jamesgeorge007/github-activity-readme@v1.3.4   # مثال لإصدار مبرقَم
+        uses: jamesgeorge007/github-activity-readme@main  # مثال لإصدار مبرقَم
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
