@@ -13,9 +13,7 @@
 ## 📊 GitHub Metrics Dashboard
 
 <!-- الـ metrics الأساسية (مثل Byron تماماً) -->
-<div align="center">
-  <img src="https://github.com/ali90h/ali90h/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+
 
 <!-- الـ detailed metrics (بدون الأقسام غير المرغوبة) -->
 <div align="center">
