@@ -12,18 +12,16 @@
 
 ## 📊 GitHub Metrics Dashboard
 
-<!-- الـ metrics الأساسية (مثل Byron تماماً) -->
+<div align="center">
+  <img src="https://github.com/ali90h/ali90h/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 
-<!-- الـ detailed metrics (بدون الأقسام غير المرغوبة) -->
 <div align="center">
   <img src="https://github.com/ali90h/ali90h/blob/main/metrics.detailed.svg" alt="Detailed Metrics" />
 </div>
 
-<!-- المساهمات الخارجية (هنا ستظهر إنجازاتك!) -->
-<div align="center">
-  <img src="https://github.com/ali90h/ali90h/blob/main/external-contributions.svg" alt="External Contributions" />
-</div>
+<!-- المساهمات الخارجية (هنا ستظهر إنجازاتك!) 
 
 ---
 
