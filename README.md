@@ -1,93 +1,78 @@
-# Hi there! I'm Ali 👋
+# Hi 👋, I'm Ali
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Problem+Solver;Developer+Tools+Enthusiast;Always+Learning+New+Things\&font=Fira%20Code\&center=true\&width=420\&height=50\&duration=4000\&pause=900)
+## 🚀 Open Source Contributor | Problem Solver | Developer Tools Enthusiast
+
+*Passionate about fixing what others can't and improving developer experiences across the ecosystem.*
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm an **open-source contributor** who enjoys solving tough problems, improving software, and collaborating with developers around the world. I focus on **developer tooling**, **CLI UX**, and **high‑impact bug fixes** across diverse stacks (not tied to a single language or framework).
+## 📊 Comprehensive GitHub Metrics
 
-```python
-class Ali:
-    def __init__(self):
-        self.username = "ali90h"
-        self.location = "Iraq"
-        self.languages = ["Python", "Rust", "JavaScript", "Shell"]
-        self.focus = ["CLI Tools", "Developer Experience", "Open Source"]
-        self.currently_learning = ["Advanced Rust", "System Programming"]
+<!-- الـ metrics الأساسية (مثل Byron تماماً) -->
+![Metrics](https://github.com/ali90h/ali90h/blob/main/github-metrics.svg)
 
-    def get_daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🐛 Debug", "📖 Learn", "🔄 Repeat"]
+<!-- الـ detailed metrics -->
+![Detailed Metrics](https://github.com/ali90h/ali90h/blob/main/metrics.detailed.svg)
+
+---
+
+## 🎯 Recent Impact & Notable Contributions
+
+### 🏆 Featured Pull Requests
+- **[OpenAI Cookbook #1977](https://github.com/openai/openai-cookbook/pull/1977)** - Fixed critical documentation links affecting AI researchers worldwide
+- **[Starship #6899](https://github.com/starship/starship/pull/6899)** - Enhanced Fish shell job counting accuracy for better terminal UX  
+- **[HTTPie #1653](https://github.com/httpie/cli/pull/1653)** - Resolved gzip encoding issues preventing file download truncation
+
+---
+
+## 🛠️ What I'm Building
+
+Currently working on **developer productivity tools** and contributing to **high-impact open source projects**. My focus areas include:
+
+```rust
+// Current interests in Rust ecosystem
+let interests = vec![
+    "CLI Tools & Developer Experience",
+    "System Programming & Performance",
+    "Git Tools & Version Control",
+    "Open Source Sustainability"
+];
 ```
 
 ---
 
-## 📊 GitHub Metrics (primary)
+## 📈 Coding Activity
 
-<details open>
-  <summary><b>GitHub Metrics</b></summary>
-  <img src="./metrics.svg?ts=1" alt="GitHub Metrics" />
-</details>
-
----
-
-## 🎯 Recent Contributions & Impact
-
-### 🏆 Case Studies
-
-* **OpenAI Cookbook – PR [#1977](https://github.com/openai/openai-cookbook/pull/1977):** Fixed multiple broken image links in documentation notebooks → Improved access to educational content for thousands of users.
-* **Starship – PR [#6899](https://github.com/starship/starship/pull/6899):** Implemented accurate job counting in the Fish module → Higher accuracy for the terminal experience.
-* **HTTPie – PR [#1653](https://github.com/httpie/cli/pull/1653):** Corrected download handling under `Content-Encoding: gzip` → Prevented file truncation for CLI users.
-
-> For each case: short description, before/after, and code links—focused on impact.
+<!-- Real-time activity will be inserted here by GitHub Actions -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## 🛠️ Languages & Tools
+## 🎵 When I Code
+
+<!-- Spotify integration (optional) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+---
+
+## 💬 Let's Connect & Collaborate
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square\&logo=gnu-bash\&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali90h)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square\&logo=linux\&logoColor=white)
-![VS\_Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+**Open to collaborating on impactful projects that make developers' lives easier!**
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-> Updates automatically via `jamesgeorge007/github-activity-readme`.
-
----
-
-## 🎯 Current Focus
-
-* 🔍 **Exploring:** Advanced Rust ecosystem & system programming
-* 🛠️ **Building:** Developer tools that enhance productivity
-* 🤝 **Contributing:** High‑impact open‑source projects
-* 📚 **Learning:** Performance optimization & CLI design patterns
-
----
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ali90h\&color=blue\&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/ali90h?style=flat-square\&color=blue\&labelColor=000)](https://github.com/ali90h?tab=followers)
-
-<sub><i>"Code is poetry written for machines, but read by humans."</i></sub>
-
+  <sub>🤖 This profile updates automatically every day with fresh metrics and activity data!</sub>
 </div>
