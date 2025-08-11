@@ -17,8 +17,8 @@ Passion: Developer Tools, Open Source, and Continuous Learning
 ```
 
 ## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali90h&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali90h&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ali90h&theme=dark&hide_border=true)
+
 
 ## 🌟 Notable Contributions
 - [OpenAI Cookbook #1977](https://github.com/openai/openai-cookbook/pull/1977) - Fixed critical documentation links
