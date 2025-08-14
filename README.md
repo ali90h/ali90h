@@ -1,6 +1,4 @@
 # Hi 👋, I'm Ali
-te
-t
 <div align="center">
   🚀 <strong>Open Source Contributor | Problem Solver | Developer Tools Enthusiast</strong>
 </div>
