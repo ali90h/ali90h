@@ -34,17 +34,21 @@ exploring:
 
 </div>
 
-## 🔧 Tech Stack
+## 🦀 Rust Enthusiast
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+```rust
+// My journey with Rust
+fn why_rust() -> &'static str {
+    "Memory safety without garbage collection,
+     Zero-cost abstractions,
+     Fearless concurrency,
+     And a compiler that teaches you to write better code."
+}
+```
+
+<sub>🔥 Currently exploring systems programming, WebAssembly, and async patterns in Rust</sub>
 
 </div>
 
