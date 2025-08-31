@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Ali 👋
 
 <div align="center">
@@ -82,3 +83,24 @@ const developer = {
   <sub>Building better software, one commit at a time.</sub>
   
 </div>
+=======
+
+# Ali
+
+Open-source contributor. I ship small, readable PRs.
+
+**Now:** building [AutoRepro](https://github.com/ali90h/AutoRepro) and contributing to:
+- rustc-dev-guide
+- rust-analyzer
+- tldr-pages
+- starship
+
+**Principles**
+- Docs-first
+- Small diffs
+- Revert-safe commits
+
+**Links**
+- Website: https://ali90h.github.io
+- GitHub: https://github.com/ali90h
+>>>>>>> 9c0fbc1 (profile: add concise English README)
