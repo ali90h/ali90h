@@ -1,0 +1,13 @@
+name: Contact Ali
+description: Ask a question or propose collaboration.
+title: "Contact: "
+labels: ["contact"]
+body:
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      description: Be specific. What do you need?
+      placeholder: Short, clear context and the request.
+    validations:
+      required: true
